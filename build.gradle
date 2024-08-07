@@ -12,4 +12,5 @@ repositories {
 
 dependencies {
   implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.6.1'
+  implementation 'net.sourceforge.htmlunit:htmlunit:2.33'
 }
